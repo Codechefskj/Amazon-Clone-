@@ -10,11 +10,11 @@ Font Awesome Integration: Utilizes Font Awesome for icons throughout the site.
 Responsive Design: The layout adapts to different screen sizes.
 
 Project Structure ->
-![Screenshot 2024-05-19 180354](https://github.com/Codechefskj/Amazon-Clone-/assets/143904130/6135c2ed-b23c-4289-8d16-2d896eb47f13)
-
 index.html: The main HTML file containing the structure of the website.
 style.css: The CSS file that styles the HTML elements
 
 Technologies Used ->
 HTML: For structuring the content.
 CSS: For styling the content.
+
+![Screenshot 2024-05-19 180354](https://github.com/Codechefskj/Amazon-Clone-/assets/143904130/6135c2ed-b23c-4289-8d16-2d896eb47f13)
